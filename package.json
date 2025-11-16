@@ -29,7 +29,7 @@
     "group-by": "^0.0.1",
     "hint.css": "^2.5.1",
     "isotope-layout": "^3.0.5",
-    "js-yaml": "^3.12.1",
+    "js-yaml": "^4.1.1",
     "jsx-to-string": "^1.4.0",
     "loadjs": "^3.5.5",
     "meow": "^5.0.0",
